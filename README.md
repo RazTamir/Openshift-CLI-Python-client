@@ -1,2 +1,2 @@
 # Openshift-CLI-Python-client
-A Python client for OpenShift CLI
+This is a POC for a Python client for OpenShift CLI
